@@ -1,0 +1,2 @@
+2021-01-31/12:24:07		Column Length Validation Started!!
+2021-01-31/12:24:10		Column Length Validation Completed!!
